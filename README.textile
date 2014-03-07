@@ -1,0 +1,1 @@
+although this has already been done ("ie":https://github.com/fgregg/legistar-scrape), giving it a go to learn a thing or two about a thing or two.
